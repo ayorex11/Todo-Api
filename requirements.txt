@@ -5,6 +5,7 @@ click==8.1.0
 colorama==0.4.4
 distlib==0.3.4
 Django==4.0.3
+djangorestframework==3.13.1
 filelock==3.6.0
 packaging==21.3
 pipenv==2022.3.28
@@ -12,6 +13,7 @@ pipx==1.0.0
 platformdirs==2.5.1
 pyparsing==3.0.7
 python-dotenv==0.20.0
+pytz==2022.1
 six==1.16.0
 sqlparse==0.4.2
 tzdata==2021.5
